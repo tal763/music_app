@@ -1,24 +1,19 @@
-# README
+# music app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version: ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]
 
-Things you may want to cover:
+Rails version: Rails 5.1.4
 
-* Ruby version
+System dependencies: #placeholder
 
-* System dependencies
+Configuration: #placeholder
 
-* Configuration
+Database creation: #placeholder
 
-* Database creation
+Database initialization: #placeholder  
 
-* Database initialization
+Test suite execution procedure: #placeholder
 
-* How to run the test suite
+Services (job queues, cache servers, search engines, etc.): #placeholder  
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deployment instructions: #placeholder
